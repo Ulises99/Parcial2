@@ -1,0 +1,5 @@
+C:\Users\Lab3\Desktop\Parcial_2\Parcial2\Parcial\obj\Debug\Parcial.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Parcial_2\Parcial2\Parcial\bin\Debug\Parcial.dll
+C:\Users\Lab3\Desktop\Parcial_2\Parcial2\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Lab3\Desktop\Parcial_2\Parcial2\Parcial\obj\Debug\Parcial.dll
+C:\Users\Lab3\Desktop\Parcial_2\Parcial2\Parcial\obj\Debug\Parcial.pdb
